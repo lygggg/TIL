@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "5e6e952814546bbe",
   "lastOpenFiles": [
