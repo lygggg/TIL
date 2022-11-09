@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/추상화란.md",
+                "file": "note/소스맵이란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/추상화란.md",
+                "file": "note/소스맵이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/추상화란.md",
+                "file": "note/소스맵이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/추상화란.md"
+                "file": "note/소스맵이란?.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "b74e8a275844a2c0",
   "lastOpenFiles": [
+    "note/추상화란.md",
     "note/함수자란?.md",
     "note/인터페이스란 무엇인가.md",
     "note/의존성 역전의 원칙이 무엇인가?.md",
@@ -158,7 +159,6 @@
     "note/모나드란?.md",
     "note/뛰어난 개발자란?.md",
     "note/소스맵이란?.md",
-    "note/추상화란.md",
     "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
     "test.md"
   ]
