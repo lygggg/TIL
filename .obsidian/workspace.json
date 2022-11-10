@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e93d87c422e11484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/소스맵이란?.md",
+                "file": "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/소스맵이란?.md",
+                "file": "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/소스맵이란?.md"
+                "file": "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md"
               }
             }
           }
@@ -149,8 +161,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "b74e8a275844a2c0",
+  "active": "e93d87c422e11484",
   "lastOpenFiles": [
+    "note/sentry에 대해서.md",
+    "note/소스맵이란?.md",
     "note/추상화란.md",
     "note/함수자란?.md",
     "note/인터페이스란 무엇인가.md",
@@ -158,8 +172,6 @@
     "note/개방폐쇠의 원칙이란?.md",
     "note/모나드란?.md",
     "note/뛰어난 개발자란?.md",
-    "note/소스맵이란?.md",
-    "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
-    "test.md"
+    "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md"
   ]
 }
