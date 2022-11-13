@@ -47,16 +47,24 @@
             "id": "78a87acfd9d151d6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7feadd09d83ed1d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "note/인터페이스란 무엇인가.md",
+                "file": "lecture/JavaScript Bundle Diet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/인터페이스란 무엇인가.md",
+                "file": "lecture/JavaScript Bundle Diet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/인터페이스란 무엇인가.md",
+                "file": "lecture/JavaScript Bundle Diet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/인터페이스란 무엇인가.md"
+                "file": "lecture/JavaScript Bundle Diet.md"
               }
             }
           }
@@ -173,17 +181,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "78a87acfd9d151d6",
+  "active": "a7feadd09d83ed1d",
   "lastOpenFiles": [
-    "note/의존성 역전의 원칙이 무엇인가?.md",
-    "note/인터페이스란 무엇인가.md",
-    "note/소스맵이란?.md",
-    "note/모나드란?.md",
-    "note/뛰어난 개발자란?.md",
-    "note/개방폐쇠의 원칙이란?.md",
+    "lecture/img/Pasted image 20221113231845.png",
+    "lecture/JavaScript Bundle Diet.md",
+    "Pasted image 20221113151832.png.md",
     "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
-    "books/오브젝트/10장 - 상속과 코드 재사용.md",
-    "note/sentry에 대해서.md",
-    "note/함수자란?.md"
+    "note/의존성 역전의 원칙이 무엇인가?.md",
+    "Pasted image 20221113150321.png.md",
+    "README.md",
+    "Pasted image 20221113151832.png",
+    "Pasted image 20221113150852.png",
+    "Pasted image 20221113150321.png"
   ]
 }
