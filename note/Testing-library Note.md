@@ -76,3 +76,7 @@ expect(modal).not.toBeInTheDocument();
 getBy 메서드는 요소를 찾을수 없을때 오류를 발생시킨다. Dom에 존재하지 않으면 queryBy를 대신 사용할수있다.
 
 `.toBeInTheDocument()`는 요소가 본문에 있는지 여부를 확인하는 matcher
+
+
+### Router Mock
+- 
