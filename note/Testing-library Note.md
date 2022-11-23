@@ -73,10 +73,41 @@ expect(modal).not.toBeInTheDocument();
 ```
 
 ### 용어정리
-getBy 메서드는 요소를 찾을수 없을때 오류를 발생시킨다. Dom에 존재하지 않으면 queryBy를 대신 사용할수있다.
+- getBy 메서드는 요소를 찾을수 없을때 오류를 발생시킨다. Dom에 존재하지 않으면 queryBy를 대신 사용할수있다.
+- `toBeInTheDocument()`는 요소가 본문에 있는지 여부를 확인하는 matcher
 
-`.toBeInTheDocument()`는 요소가 본문에 있는지 여부를 확인하는 matcher
 
+### Next Router Mock
 
-### Router Mock
-- 
+```tsx
+import { NextRouter } from "next/router";
+
+export function createMockRouter(router: Partial<NextRouter>): NextRouter {
+return {
+basePath: "",
+pathname: "/",
+route: "/",
+query: {},
+asPath: "/",
+back: jest.fn(),
+beforePopState: jest.fn(),
+prefetch: jest.fn(),
+push: jest.fn(),
+reload: jest.fn(),
+replace: jest.fn(),
+events: {
+on: jest.fn(),
+off: jest.fn(),
+emit: jest.fn(),
+},
+isFallback: false,
+isLocaleDomain: false,
+isReady: true,
+defaultLocale: "en",
+domainLocales: [],
+isPreview: false,
+...router,
+};
+}
+```
+

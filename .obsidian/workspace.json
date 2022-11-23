@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oop/sentry에 대해서.md",
+                "file": "note/sentry에 대해서.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md",
+                "file": "note/뛰어난 개발자란?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fccd00eb2202937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/웹 접근성/Learn Accessibility 1장.md",
                 "mode": "source",
                 "source": false
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/미래에 할것을 적는 note.md",
+                "file": "lecture/웹 접근성/Learn Accessibility 1장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/미래에 할것을 적는 note.md",
+                "file": "lecture/웹 접근성/Learn Accessibility 1장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/미래에 할것을 적는 note.md"
+                "file": "lecture/웹 접근성/Learn Accessibility 1장.md"
               }
             }
           }
@@ -303,17 +315,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "575325fa3c70f41d",
+  "active": "6fccd00eb2202937",
   "lastOpenFiles": [
+    "note/뛰어난 개발자란?.md",
+    "note/sentry에 대해서.md",
     "note/Testing-library Note.md",
-    "books/오브젝트/10장 - 상속과 코드 재사용.md",
     "note/미래에 할것을 적는 note.md",
+    "books/오브젝트/10장 - 상속과 코드 재사용.md",
     "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
     "lecture/JavaScript Bundle Diet.md",
     "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md",
     "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
-    "books/오브젝트/11장 - 합성과 유연한 설계.md",
-    "note/rem과 em.md",
-    "note/setTimeout()과 setInterval()함수.md"
+    "books/오브젝트/11장 - 합성과 유연한 설계.md"
   ]
 }
