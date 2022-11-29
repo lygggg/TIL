@@ -111,3 +111,5 @@ isPreview: false,
 }
 ```
 
+### 기깔나는 테스트 세팅
+https://medium.com/nmc-techblog/custom-rendering-in-react-testing-library-done-right-e260e01ba6f7
