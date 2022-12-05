@@ -265,7 +265,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture/웹 접근성/08.Color-and-contrast.md",
+                "file": "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f97ed8fc0fd5162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/JavaScript Bundle Diet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33a848329da3f796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/인터페이스 분리 원칙이란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -352,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/웹 접근성/08.Color-and-contrast.md",
+                "file": "note/인터페이스 분리 원칙이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -369,7 +393,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/웹 접근성/08.Color-and-contrast.md",
+                "file": "note/인터페이스 분리 원칙이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -392,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/웹 접근성/08.Color-and-contrast.md"
+                "file": "note/인터페이스 분리 원칙이란?.md"
               }
             }
           }
@@ -403,17 +427,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "5ceaa90e04be0596",
+  "active": "33a848329da3f796",
   "lastOpenFiles": [
-    "lecture/웹 접근성/09. Animation and motion.md",
     "note/스터디 메모장.md",
-    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
-    "books/함수형 자바스크립트/7. 함수형 최적화.md",
-    "note/Testing-library Note.md",
-    "lecture/웹 접근성/07. Images.md",
-    "lecture/웹 접근성/06. Document.md",
-    "lecture/웹 접근성/05. Content-Structure.md",
-    "lecture/웹 접근성/01. What-is-digital-accessiblity.md",
-    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md"
+    "note/인터페이스 분리 원칙이란?.md",
+    "lecture/JavaScript Bundle Diet.md",
+    "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
+    "note/개방폐쇄의 원칙이란?.md",
+    "books/오브젝트/12장 - 다형성.md",
+    "books/오브젝트/10장 - 상속과 코드 재사용.md",
+    "books/오브젝트/11장 - 합성과 유연한 설계.md",
+    "lecture/SLASH - Effective Component 지속 가능한 성장과 컴포넌트.md",
+    "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md"
   ]
 }
