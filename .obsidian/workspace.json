@@ -296,6 +296,30 @@
             }
           },
           {
+            "id": "ad0116b72e2cf58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a283a22de5befbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/스터디 메모장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "575325fa3c70f41d",
             "type": "leaf",
             "pinned": true,
@@ -310,7 +334,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -376,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/인터페이스 분리 원칙이란?.md",
+                "file": "note/스터디 메모장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/인터페이스 분리 원칙이란?.md",
+                "file": "note/스터디 메모장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,7 +440,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/인터페이스 분리 원칙이란?.md"
+                "file": "note/스터디 메모장.md"
               }
             }
           }
@@ -427,17 +451,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "33a848329da3f796",
+  "active": "a283a22de5befbf4",
   "lastOpenFiles": [
+    "books/오브젝트/14장 - 일관성 있는 협력.md",
+    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
+    "books/오브젝트/12장 - 다형성.md",
+    "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
+    "books/함수형 자바스크립트/7. 함수형 최적화.md",
     "note/스터디 메모장.md",
     "note/인터페이스 분리 원칙이란?.md",
-    "lecture/JavaScript Bundle Diet.md",
-    "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
-    "note/개방폐쇄의 원칙이란?.md",
-    "books/오브젝트/12장 - 다형성.md",
-    "books/오브젝트/10장 - 상속과 코드 재사용.md",
-    "books/오브젝트/11장 - 합성과 유연한 설계.md",
-    "lecture/SLASH - Effective Component 지속 가능한 성장과 컴포넌트.md",
-    "lecture/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md"
+    "note/리스코프 치환 원칙이란 무엇인가?.md",
+    "note/뛰어난 개발자란?.md",
+    "note/소스맵이란?.md"
   ]
 }
