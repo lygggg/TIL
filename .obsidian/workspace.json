@@ -313,7 +313,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트-1회차.md",
+                "file": "lecture/웹 접근성/08.Color-and-contrast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "244f655340ebd0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/접근성 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -334,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -396,7 +408,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb2414e1d9f41bf8",
@@ -412,7 +425,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트-1회차.md",
+                "file": "note/접근성 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +442,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트-1회차.md",
+                "file": "note/접근성 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -452,7 +465,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트-1회차.md"
+                "file": "note/접근성 정리.md"
               }
             }
           }
@@ -463,17 +476,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "59d859fcd65d739f",
+  "active": "5e6e952814546bbe",
   "lastOpenFiles": [
-    "lecture/무제파일.md",
-    "lecture/웹 접근성/01. What-is-digital-accessiblity.md",
-    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
     "lecture/웹 접근성/03. ARIA-and-HTML.md",
+    "note/접근성 정리.md",
     "lecture/웹 접근성/05. Content-Structure.md",
     "lecture/웹 접근성/06. Document.md",
     "lecture/웹 접근성/07. Images.md",
     "lecture/웹 접근성/08.Color-and-contrast.md",
+    "note/img/Pasted image 20221215050301.png",
+    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
     "lecture/웹 접근성/09. Animation and motion.md",
-    "books/오브젝트/14장 - 일관성 있는 협력.md"
+    "lecture/웹 접근성/01. What-is-digital-accessiblity.md"
   ]
 }
