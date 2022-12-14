@@ -1,0 +1,11 @@
+- 기초부터 완성까지 프론트엔드 책 완독 (o)
+- 그림으로 배우는 http 네트워크 완독 (o)
+- 실전 리액트 프로그래밍 완독 (o)
+- 스무디 한잔 마시며 끝내는 react TDD (70%)
+- 코어 자바스크립트 (4 회독)
+- mlog 프로젝트 테스트 커버리지 90%
+- 오브젝트 책 완독 (현재11장)
+- 함수형 자바스크립트 책 완독 (현재 6장)
+- you dont know js 완독
+- [next 성능 최적화1](https://youtu.be/hZr4J42JDoc)
+- [next 성능 최적화2](https://www.youtube.com/watch?v=TOP33Kwa6Qg)

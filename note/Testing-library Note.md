@@ -111,5 +111,23 @@ isPreview: false,
 }
 ```
 
-### 기깔나는 테스트 세팅
+
+### 테스트 주의사항
+- `screen` 사용
+- 잘못된 단언문을 사용하지마라
+- `act`로 불필요하게 감싸지마라.
+- 잘못된 쿼리를 사용하지마라. 쿼리도 우선순위가 존재한다.
+- `getByRole`을 사용해라.
+- `user-event`를 사용해라
+- 존재 여부를 확인하는 경우 모든 곳에 `query`를 사용하지마라
+- `waitFor`에 빈 콜백을 넘겨주지마라
+- `waitFor`에 사이드 이펙트를 수행하지마라
+- 
+### 커스텀 테스트
 https://medium.com/nmc-techblog/custom-rendering-in-react-testing-library-done-right-e260e01ba6f7
+
+### 테스트시 주의사항
+https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
+
+### 우선순위
+https://testing-library.com/docs/queries/about/#priority
