@@ -325,7 +325,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "lecture/웹 접근성/08.Color-and-contrast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad991673724dc457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md",
                 "mode": "source",
                 "source": false
               }
@@ -346,7 +358,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -408,8 +420,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb2414e1d9f41bf8",
@@ -425,7 +436,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +453,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -465,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/접근성 정리.md"
+                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md"
               }
             }
           }
@@ -476,17 +487,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "5e6e952814546bbe",
+  "active": "ad991673724dc457",
   "lastOpenFiles": [
-    "lecture/웹 접근성/03. ARIA-and-HTML.md",
+    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
+    "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md",
+    "books/함수형 자바스크립트/7. 함수형 최적화.md",
     "note/접근성 정리.md",
-    "lecture/웹 접근성/05. Content-Structure.md",
-    "lecture/웹 접근성/06. Document.md",
-    "lecture/웹 접근성/07. Images.md",
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트-1회차.md",
+    "note/제어역전(Inversion of Control, IOC).md",
     "lecture/웹 접근성/08.Color-and-contrast.md",
-    "note/img/Pasted image 20221215050301.png",
-    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
-    "lecture/웹 접근성/09. Animation and motion.md",
-    "lecture/웹 접근성/01. What-is-digital-accessiblity.md"
+    "lecture/웹 접근성/03. ARIA-and-HTML.md",
+    "lecture/웹 접근성/05. Content-Structure.md",
+    "lecture/웹 접근성/06. Document.md"
   ]
 }
