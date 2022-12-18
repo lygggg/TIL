@@ -344,6 +344,30 @@
             }
           },
           {
+            "id": "ff5405b0cc5d4cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Playwright.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d95fa806210f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "575325fa3c70f41d",
             "type": "leaf",
             "pinned": true,
@@ -358,7 +382,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -436,7 +460,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md",
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -453,7 +477,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md",
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -476,7 +500,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/함수형 자바스크립트/7. 함수형 최적화.md"
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md"
               }
             }
           }
@@ -487,17 +511,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "ad991673724dc457",
+  "active": "f2d95fa806210f0e",
   "lastOpenFiles": [
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+    "note/Playwright.md",
+    "books/함수형 자바스크립트/7. 함수형 최적화.md",
     "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
     "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md",
-    "books/함수형 자바스크립트/7. 함수형 최적화.md",
     "note/접근성 정리.md",
-    "lecture/객체지향 자바스크립트/객체지향 자바스크립트-1회차.md",
     "note/제어역전(Inversion of Control, IOC).md",
     "lecture/웹 접근성/08.Color-and-contrast.md",
-    "lecture/웹 접근성/03. ARIA-and-HTML.md",
-    "lecture/웹 접근성/05. Content-Structure.md",
-    "lecture/웹 접근성/06. Document.md"
+    "lecture/웹 접근성/03. ARIA-and-HTML.md"
   ]
 }
