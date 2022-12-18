@@ -368,6 +368,30 @@
             }
           },
           {
+            "id": "68bce8071451fa85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07f829771def4027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "575325fa3c70f41d",
             "type": "leaf",
             "pinned": true,
@@ -382,7 +406,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -460,7 +484,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -477,7 +501,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -500,7 +524,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md"
+                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md"
               }
             }
           }
@@ -511,17 +535,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "f2d95fa806210f0e",
+  "active": "07f829771def4027",
   "lastOpenFiles": [
-    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
+    "books/오브젝트/14장 - 일관성 있는 협력.md",
+    "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
     "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+    "lecture/img/Pasted image 20221218225934.png",
+    "lecture/img/Pasted image 20221219003252.png",
+    "무제파일.md",
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
     "note/Playwright.md",
     "books/함수형 자바스크립트/7. 함수형 최적화.md",
-    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
-    "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md",
-    "note/접근성 정리.md",
-    "note/제어역전(Inversion of Control, IOC).md",
-    "lecture/웹 접근성/08.Color-and-contrast.md",
-    "lecture/웹 접근성/03. ARIA-and-HTML.md"
+    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md"
   ]
 }
