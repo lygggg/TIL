@@ -392,6 +392,18 @@
             }
           },
           {
+            "id": "22ce8b66706b238b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "575325fa3c70f41d",
             "type": "leaf",
             "pinned": true,
@@ -406,7 +418,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -535,17 +547,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "07f829771def4027",
+  "active": "22ce8b66706b238b",
   "lastOpenFiles": [
-    "books/오브젝트/14장 - 일관성 있는 협력.md",
+    "note/Playwright.md",
+    "daliy article/무제파일.md",
     "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+    "books/오브젝트/14장 - 일관성 있는 협력.md",
     "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
     "lecture/img/Pasted image 20221218225934.png",
     "lecture/img/Pasted image 20221219003252.png",
     "무제파일.md",
     "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
-    "note/Playwright.md",
-    "books/함수형 자바스크립트/7. 함수형 최적화.md",
-    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md"
+    "books/함수형 자바스크립트/7. 함수형 최적화.md"
   ]
 }
