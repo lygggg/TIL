@@ -397,7 +397,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -496,7 +496,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -513,7 +513,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -536,7 +536,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md"
+                "file": "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md"
               }
             }
           }
@@ -549,15 +549,15 @@
   },
   "active": "22ce8b66706b238b",
   "lastOpenFiles": [
-    "note/Playwright.md",
-    "daliy article/무제파일.md",
-    "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
-    "books/오브젝트/14장 - 일관성 있는 협력.md",
-    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+    "lecture/img/Pasted image 20221113231649.png",
+    "lecture/img/Pasted image 20221113231743.png",
+    "lecture/img/Pasted image 20221113231807.png",
+    "lecture/img/Pasted image 20221113231845.png",
+    "lecture/img/Pasted image 20221204203759.png",
+    "lecture/img/Pasted image 20221218222856.png",
     "lecture/img/Pasted image 20221218225934.png",
     "lecture/img/Pasted image 20221219003252.png",
-    "무제파일.md",
-    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
-    "books/함수형 자바스크립트/7. 함수형 최적화.md"
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md"
   ]
 }
