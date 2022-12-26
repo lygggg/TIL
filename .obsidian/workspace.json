@@ -421,7 +421,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/객제치향 자바스크립트의 원리/1장 원시 타입과 참조 타입.md",
+                "file": "books/오브젝트/11장 - 합성과 유연한 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e53bdf909e6a6204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/접근성 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ee3326cdbd61cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8cf5f7613668ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/코어 자바스크립트/2장 실행 컨텍스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd9ff17ea62d7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/코어 자바스크립트/3장 this.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6172dac25f917fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/코어 자바스크립트/4장 콜백함수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb71e749f55af41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/코어 자바스크립트/5장 클로저.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbb37c1d74eeab87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
                 "mode": "source",
                 "source": false
               }
@@ -442,7 +526,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -520,7 +604,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/객제치향 자바스크립트의 원리/1장 원시 타입과 참조 타입.md",
+                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -537,7 +621,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/객제치향 자바스크립트의 원리/1장 원시 타입과 참조 타입.md",
+                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -560,7 +644,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/객제치향 자바스크립트의 원리/1장 원시 타입과 참조 타입.md"
+                "file": "books/코어 자바스크립트/1장 데이터 타입.md"
               }
             }
           }
@@ -581,17 +665,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "004a866fb129fbac",
+  "active": "fbb37c1d74eeab87",
   "lastOpenFiles": [
-    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 2 회차.md",
-    "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
-    "lecture/img/Pasted image 20221113231649.png",
-    "lecture/img/Pasted image 20221113231743.png",
-    "lecture/img/Pasted image 20221113231807.png",
-    "lecture/img/Pasted image 20221113231845.png",
-    "lecture/img/Pasted image 20221204203759.png",
-    "lecture/img/Pasted image 20221218222856.png",
-    "lecture/img/Pasted image 20221218225934.png",
-    "lecture/img/Pasted image 20221219003252.png"
+    "books/코어 자바스크립트/6장 프로토 타입.md",
+    "books/코어 자바스크립트/5장 클로저.md",
+    "books/코어 자바스크립트/4장 콜백함수.md",
+    "books/코어 자바스크립트/3장 this.md",
+    "books/코어 자바스크립트/2장 실행 컨텍스트.md",
+    "books/코어 자바스크립트/1장 데이터 타입.md",
+    "note/접근성 정리.md",
+    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
+    "books/함수형 자바스크립트/7. 함수형 최적화.md",
+    "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md"
   ]
 }
