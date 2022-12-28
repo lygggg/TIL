@@ -505,7 +505,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
+                "file": "daliy article/Functional Promgramming in JavaScript, Part 1 The Unit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e7a6e8cc6e4c829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/Functional Promgramming in JavaScript, Part 2 The Monoid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c829a6065c6883c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/Validator assemble! Functors in Action.md",
                 "mode": "source",
                 "source": false
               }
@@ -526,7 +550,7 @@
             }
           }
         ],
-        "currentTab": 41
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -604,7 +628,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
+                "file": "daliy article/Validator assemble! Functors in Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -621,7 +645,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/코어 자바스크립트/1장 데이터 타입.md",
+                "file": "daliy article/Validator assemble! Functors in Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -644,7 +668,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/코어 자바스크립트/1장 데이터 타입.md"
+                "file": "daliy article/Validator assemble! Functors in Action.md"
               }
             }
           }
@@ -665,17 +689,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fbb37c1d74eeab87",
+  "active": "8c829a6065c6883c",
   "lastOpenFiles": [
+    "daliy article/Functional Promgramming in JavaScript, Part 2 The Monoid.md",
+    "daliy article/Validator assemble! Functors in Action.md",
+    "daliy article/Functional Promgramming in JavaScript, Part 1 The Unit.md",
+    "books/코어 자바스크립트/1장 데이터 타입.md",
     "books/코어 자바스크립트/6장 프로토 타입.md",
     "books/코어 자바스크립트/5장 클로저.md",
     "books/코어 자바스크립트/4장 콜백함수.md",
     "books/코어 자바스크립트/3장 this.md",
     "books/코어 자바스크립트/2장 실행 컨텍스트.md",
-    "books/코어 자바스크립트/1장 데이터 타입.md",
-    "note/접근성 정리.md",
-    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
-    "books/함수형 자바스크립트/7. 함수형 최적화.md",
-    "books/함수형 자바스크립트/6. 빈틈없는 코드 만들기.md"
+    "note/접근성 정리.md"
   ]
 }
