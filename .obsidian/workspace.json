@@ -601,7 +601,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "file": "note/Testing-library Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7c499e6684bca7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -622,7 +634,7 @@
             }
           }
         ],
-        "currentTab": 49
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -651,7 +663,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#팁7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -680,7 +692,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -700,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -717,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -740,7 +753,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md"
+                "file": "daliy article/9 React Testing Library Tips and Tricks.md"
               }
             }
           }
@@ -761,9 +774,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6df74b1815b821e7",
+  "active": "f7c499e6684bca7f",
   "lastOpenFiles": [
     "note/Testing-library Note.md",
+    "lecture/실용적인 프런트엔드 테스트 전략.md",
     "note/TDD란? 테스트 주도 개발.md",
     "note/setTimeout()과 setInterval()함수.md",
     "note/sentry에 대해서.md",
@@ -771,7 +785,6 @@
     "note/e2e 테스트란.md",
     "note/개방폐쇄의 원칙이란?.md",
     "note/뛰어난 개발자란?.md",
-    "note/리스코프 치환 원칙이란 무엇인가?.md",
-    "lecture/실용적인 프런트엔드 테스트 전략.md"
+    "note/리스코프 치환 원칙이란 무엇인가?.md"
   ]
 }
