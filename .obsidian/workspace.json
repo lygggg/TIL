@@ -613,7 +613,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
+                "file": "daliy article/6 Cypress Best Practices for Making Your Tests More Deterministic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "880043720b3cbc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f04913bf53e55ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -634,7 +658,7 @@
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -663,7 +687,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#팁7",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -692,8 +716,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -713,7 +736,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
+                "file": "daliy article/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +753,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
+                "file": "daliy article/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -753,7 +776,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md"
+                "file": "daliy article/무제 파일.md"
               }
             }
           }
@@ -774,17 +797,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7c499e6684bca7f",
+  "active": "6f04913bf53e55ec",
   "lastOpenFiles": [
+    "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
+    "daliy article/Functional Promgramming in JavaScript, Part 2 The Monoid.md",
+    "daliy article/Functional Promgramming in JavaScript, Part 1 The Unit.md",
+    "daliy article/FE 개발자의 성장 스토리 12 Angular E2E 테스팅 경험기.md",
+    "daliy article/9 React Testing Library Tips and Tricks.md",
+    "note/sentry에 대해서.md",
+    "daliy article/6 Cypress Best Practices for Making Your Tests More Deterministic.md",
     "note/Testing-library Note.md",
     "lecture/실용적인 프런트엔드 테스트 전략.md",
-    "note/TDD란? 테스트 주도 개발.md",
-    "note/setTimeout()과 setInterval()함수.md",
-    "note/sentry에 대해서.md",
-    "note/React-Query Note.md",
-    "note/e2e 테스트란.md",
-    "note/개방폐쇄의 원칙이란?.md",
-    "note/뛰어난 개발자란?.md",
-    "note/리스코프 치환 원칙이란 무엇인가?.md"
+    "note/TDD란? 테스트 주도 개발.md"
   ]
 }
