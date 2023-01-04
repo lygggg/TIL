@@ -130,5 +130,87 @@ type C = PromiseType<number>;
 Conditional Type과 Variadic Tuple Type을 활용함으로써 이를 간단히 구현할 수 있다.
 
 ```ts
+type TailOf<T> = T extends [unknown, ...infer U] ? U : [];
 
+// type A = [boolean, number];
+type A = TailOf<[string, boolean, number]>;
 ```
+
+간단한 형태로 튜플이 비어있는지 검사하기 위해, 아래와 같은 `IsEmpty<T>`타입을 정의할 수 있다.
+
+```ts
+type IsEmpty<T extends any[]> = T extends [] ? true : false;
+
+type B = IsEmpty<[]>;
+
+type C = IsEmpty<[number, string]>;
+```
+
+#### 초급 예시 1: 간단한 추론
+```ts
+type InOrOut<T> = T extends `fade${infer R}` ? R : never;
+
+// type I = "In"
+type I = InOrOut<"fadeIn">;
+type O = InOrOut<"fadeOut">;
+```
+`'fadeIn' | 'fadeOut`과 같은 타입에서 앞의 `fade`접두사를 버리고 `'In' | 'Out'`만 가져오고 싶은 상황을 생각해보면
+
+`Promise<number>`에서 `number`를 가져오는 것과 유사하게, Conditional Type을 이용하여 접두사를 제외할 수 있다.
+
+#### 중급 예시: 문자열에서 공백 없애기
+위의 예시를 응용하면 문자열의 공백을 없애는 타입을 정의할 수 있다. 예를 들어, 아래와 같이 오른쪽의 공백을 모두 제거한 타입을 만들 수 있다.
+
+```ts
+// type T = "Toss"
+type T = TrimRight<"Toss       ">;
+```
+
+`TrimRight<T>`타입은 재귀적 타입 선언을 활용한다.
+```ts
+type TrimRight<T extends string> = 
+	T extends `${infer R}`
+		? TrimRight<R>
+		: T;
+```
+
+위 코드를 살펴보면, `infer R`문 뒤에 하나의 공백이 있다. 즉, `T`타입의 오른쪽에 공백이 하나 있다면, 공백을 하나 빠뜨린 것을 `R`타입으로 추론하고, 다시 `TrmRight<R>`을 호출한다.
+
+만약 공백이 더 이상 존재하지 않는다면, 원래 주어진 타입 그대로 반환한다.
+
+TypeScript에는 `if`문이 존재하지 않지만, 만약 존재한다고 가정했을 때 아래와 같이 작성할 수 있다.
+
+```ts
+type TrimRight<T extends string> = 
+	if(T extends `${infer R} `) {
+	return TrimRight<R>;
+	} else {
+	return T;
+	}
+```
+
+#### 중급 예시 2: 점으로 연결된 문자열 Split하기
+재귀적 타입정의를 활용하면 `'foo.bar.baz'`와 같은 타입을 `['foo','bar','baz']`로 나누는 타입을 정의할 수 있다.
+
+```ts
+type Split<S extends string> = 
+	S extends `${infer T}.${infer U}`
+		? [T, ...Split<U>]
+		: [S];
+
+// type S = ["foo", "bar", "baz"];
+type S = Split<"foo.bar.baz">;
+```
+
+주어진 `S`타입에서 첫번째 (`.`)을 찾고, 그 앞 부분을 `T`, 뒷 부분을 `U`로 추론한다. 이후 이를 `[T, ...Split<U>]`와 같이 재귀적으로 하나씩 값을 이어 나가면서 원하는 결과 타입을 만들어 나간다.
+
+이 경우에도 `if`문이 있다는 가정 하에 pseudo-code로 정리해볼 수 있다.
+
+```ts
+type Split<S extends string> =
+	if (S extends `${infer T}.${infer U}`) {
+	return [T, ...Split<infer I>];
+	} else {
+	return [S];
+	}
+``` 
