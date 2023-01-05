@@ -1,3 +1,5 @@
+
+
 ## Template Literal Type이란?
 간단히 말해, Template Literal Type이란 기존 TypeScript의 String Literal Type을 기반으로 새로운 타입을 만드는 도구입니다.
 
@@ -214,3 +216,123 @@ type Split<S extends string> =
 	return [S];
 	}
 ``` 
+
+
+#### 고급 예시: lodash.sst()함수 타입 추론하기
+
+`lodash.set()`는 아래와 같이 문자열로 된 접근자를 이용하여 객체의 깊은 프로퍼티까지 수정할 수 있는 함수입니다.
+
+```ts
+const someObject= {
+	toss: {
+		core: {
+			client: {
+				platform: "foo"
+			}
+		}
+	}
+};
+
+lodashSet(someObject, "toss.core.client", { platform: "bar" });
+
+// Error : "bar" is not assignable to type '{ platform: string }'
+lodashSet(someObject, "toss.core.client", "bar");
+```
+
+Template Literal Type이 있기 전, 이런 함수는 타입 안전하게 사용할 수 없어 세번째 인자를 any로 규정해야 했습니다. 그러나 위에서 살펴본 타입 정의를 조합하면 `lodash.set()`를 더욱 안전하게 타이핑할 수 있습니다.
+
+`lodash.set()`함수를 정확하게 타이핑하기 위해서는 아래의 `ValueOf<T, P>`타입이 필요합니다. `ValueOf<T, P>`타입을 객체의 `T`와 접근 경로 `P`가 주어졌을 때, `T`를 `P`경로로 순서대로 접근했을 때 결과로 나오는 타입을 나타냅니다.
+
+```ts
+interface Foo {
+	foo: {
+		bar: {
+			baz: string;
+		}
+	}
+}
+
+// type A = { bar: { baz: string }};
+type A = ValueOf<Foo, ["foo"]>;
+
+// type B = { baz: string }
+type B = ValueOf<Foo, ["foo", "bar"]>;
+
+// type C = string;
+type C = ValueOf<Foo, ["foo", "bar", "baz"]>;
+```
+
+만약 위와 같은 `ValueOf<T, P>`이 있다면, 위에서 만들었던 `Split<S>`과 조합하여 쉽게 lodash.set()함수에 타입을 부여할 수 있을 것입니다.
+
+```ts
+function lodashSet<Type, Path>(
+ obj: Type,
+ path: Path,
+ value: ValueOf<Type, Split<Path>>
+): void;
+```
+
+이제 `ValueOf<T, P>`타입을 만들어보자. `if`문과 내부 타입 선언이 있는 pseudo-code로 나타내면, 아래와 같이 코드를 작성할 수 있다.
+
+```ts
+type ValueOf<Type, Paths> =
+	type Head = Paths[0];
+	type Tail = TailOf<paths>;
+	if(/*Tail의 길이가 0이다*/) {
+		return type[Head];
+	} else {
+	return ValueOf<Type[Head], Tail>;
+	}
+```
+
+`ValueOf<T, P>`타입이 그렇게 동작한다면, 위의 `Foo`예시에서는 아래와 같이 차례대로 값이 계산될 것입니다.
+```ts
+ValueOf<Foo, ["foo", "bar"]>
+== ValueOf<Foo["foo"], ["bar"]>
+== ValueOf<Foo["foo"]["bar"], []>
+== Foo["foo"]["bar"]
+```
+
+작성했던 의사 코드를 유효한 TypeScript 코드로 나타내면 다음과 같습니다.
+
+```ts
+type ValueOf<Type, Paths extends any[]> =
+/*
+ IsEmpty<TailOf<Paths>>가 참이면 * == TailOf<Paths>가 빈 Tuple이면
+*/
+IsEmpty<TailOf<Paths>> extends true
+	? Type[HeadOf<Paths>]
+	: ValueOf<Type[HeadOf<Paths>], TailOf<Paths>>;
+```
+위 내용을 모두 조합하면 lodash.set()을 안전하게 다룰 수 있다.
+
+### Template Literal Type의 응용
+위에서 살펴본 바와 같이, Template Literal Type을 Conditional Type과 사용하면 더욱 많은 코드를 안전하게 사용할 수 있다. [awesome-template-literal-types](https://github.com/ghoullier/awesome-template-literal-types) 를참고해라
+
+대표적으로 화제가 되었던 예시들에 대해서 살펴보자.
+1. TypeScript로 JSON 파서 만들기
+
+```ts
+// type Json = { key1: ['value1', null]; key2: 'value2' };
+type Json = ParseJson<'{ "key1": ["value1", null], "key2": "value2" }'>;
+```
+
+코드와 같이 JSON 문자열을 바로 TypeScript 타입으로 옮길 수 있다는 Proof-of-concept로 화제가 되었다.
+
+2. document.querySelector를 타입 안전하게 사용하기
+```ts
+const a = querySelector('div.banner > a.call-to-action'); //-> HTMLAnchorElement 
+const b = querySelector('input, div'); //-> HTMLInputElement | HTMLDivElement 
+const c = querySelector('circle[cx="150"]') //-> SVGCircleElement 
+const d = querySelector('button#buy-now'); //-> HTMLButtonElement 
+const e = querySelector('section p:first-of-type'); //-> HTMLParagraphElement
+```
+
+a태그를 선택했을 떄 결과값이 `HTMLAnchorElement`가 되는 것을 확인할 수 있다.
+
+3. Express의 Route Parameter로부터 타입 추론하기
+
+![image](https://user-images.githubusercontent.com/52567149/210721465-1760aea5-681f-4367-81e5-7dc38c908ec7.png)
+
+
+https://toss.tech/article/template-literal-types
