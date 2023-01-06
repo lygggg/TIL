@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe5189bf3ebd6a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/부수효과 없는 \"순수 함수\" 맛보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "daliy article/부수효과 없는 \"순수 함수\" 맛보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "daliy article/부수효과 없는 \"순수 함수\" 맛보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
+                "file": "daliy article/부수효과 없는 \"순수 함수\" 맛보기.md"
               }
             }
           }
@@ -215,17 +227,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa1f50d70e458fef",
+  "active": "fe5189bf3ebd6a45",
   "lastOpenFiles": [
-    "note/TDD란? 테스트 주도 개발.md",
-    "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "books/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "books/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
-    "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "books/객체지향의 사실과 오해.md",
-    "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
-    "note/개방폐쇄의 원칙이란?.md",
-    "lecture/웹 접근성/06. Document.md",
-    "lecture/웹 접근성/07. Images.md"
+    "daliy article/프론트엔드 테스트에 대한 고촬.md",
+    "daliy article/Cypress Best Practices.md",
+    "daliy article/FE 개발자의 성장 스토리 12 Angular E2E 테스팅 경험기.md",
+    "daliy article/Functional Promgramming in JavaScript, Part 1 The Unit.md",
+    "daliy article/Functional Promgramming in JavaScript, Part 2 The Monoid.md",
+    "daliy article/React Hooks Compound Components.md",
+    "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
+    "daliy article/Validator assemble! Functors in Action.md",
+    "daliy article/9 React Testing Library Tips and Tricks.md",
+    "daliy article/부수효과 없는 \"순수 함수\" 맛보기.md"
   ]
 }
