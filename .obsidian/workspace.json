@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa1f50d70e458fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/객체지향의 사실과 오해/03 타입과 추상화.md"
+                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
               }
             }
           }
@@ -203,17 +215,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "90186e61c1da24a4",
+  "active": "fa1f50d70e458fef",
   "lastOpenFiles": [
+    "note/TDD란? 테스트 주도 개발.md",
+    "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "books/객체지향의 사실과 오해/03 타입과 추상화.md",
     "books/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "books/객체지향의 사실과 오해/03 타입과 추상화.md",
     "books/객체지향의 사실과 오해.md",
     "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
     "note/개방폐쇄의 원칙이란?.md",
     "lecture/웹 접근성/06. Document.md",
-    "lecture/웹 접근성/07. Images.md",
-    "lecture/웹 접근성/08.Color-and-contrast.md",
-    "lecture/웹 접근성/09. Animation and motion.md"
+    "lecture/웹 접근성/07. Images.md"
   ]
 }
