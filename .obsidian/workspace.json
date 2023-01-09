@@ -105,14 +105,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
+                "file": "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47e7d43ca029b109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/Observer Pattern(옵저버 패턴)?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
+                "file": "note/Observer Pattern(옵저버 패턴)?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md",
+                "file": "note/Observer Pattern(옵저버 패턴)?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/9 React Testing Library Tips and Tricks.md"
+                "file": "note/Observer Pattern(옵저버 패턴)?.md"
               }
             }
           }
@@ -251,17 +263,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c795738945d66082",
+  "active": "47e7d43ca029b109",
   "lastOpenFiles": [
+    "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "note/Object VS Map.md",
+    "note/memo.md",
+    "daliy article/9 React Testing Library Tips and Tricks.md",
     "books/객체지향의 사실과 오해/03 타입과 추상화.md",
     "daliy article/React Query Data Transformations.md",
     "note/TDD란? 테스트 주도 개발.md",
     "note/Testing-library Note.md",
     "note/unknown Type.md",
-    "note/setTimeout()과 setInterval()함수.md",
-    "note/sentry에 대해서.md",
-    "note/rem과 em.md",
-    "note/React-Query Note.md",
-    "note/Playwright.md"
+    "note/setTimeout()과 setInterval()함수.md"
   ]
 }
