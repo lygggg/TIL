@@ -21,7 +21,7 @@
 
 - 필요없는 작업 제거
 
-[React Fiber 아키텍처](https://github.com/acdlite/react-fiber-architecture)
+[React Fiber architecture](https://github.com/acdlite/react-fiber-architecture)
 - React Fiber의 목적은 animation, layout,gesture와 같은 영역들에 있어서 React의 적합성을 확보하기 위함이다. 주요 주제는 점증적 렌더링으로, 렌더링 작업을 chunk 단위로 나눈뒤 여러 프레임에 수행하는 것을 의미한다. 이와 더불어 새로운 업데이트가 들어올 때 기존의 작업을 멈추거나, 정지하거나, 재사용하는 기능들을 포함한다. 이외에도 다른 종류의 업데이트에 우선순위를 부여하거나, 새로운 동시성 모드를 위한 초기 작업들이 포함된다.
 
 - 애플리케이션이 매 변화가 있을 때마다 리렌더링 하는 것은 정말 작은 앱에서나 가능한 일이다. 실제 애플리케이션은 이럴 경우 퍼포먼스 상에서 금지될 정도로 무거운 작업이다. 하지만 리액트는 최적화를 통해서 리렌더링 속에 전체 앱을 렌더하면서도 동시에 굉장한 성능을 유지할 수 있다.
