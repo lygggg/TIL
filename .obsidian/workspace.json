@@ -153,14 +153,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
+                "file": "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46876fad67397659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/useMemo 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "응집도",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,13 +230,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb2414e1d9f41bf8",
@@ -240,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
+                "file": "note/useMemo 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
+                "file": "note/useMemo 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/객체지향의 사실과 오해/05. 책임과 메시지.md"
+                "file": "note/useMemo 정리.md"
               }
             }
           }
@@ -301,13 +311,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "24b895ee51837ab6",
+  "active": "46876fad67397659",
   "lastOpenFiles": [
     "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "books/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/객체지향의 사실과 오해/객체 지도.md",
     "note/deep copy.md",
     "note/Observer Pattern(옵저버 패턴)?.md",
