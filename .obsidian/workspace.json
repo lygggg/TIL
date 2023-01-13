@@ -170,9 +170,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c199466aa0b528b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/React-fiber에 대해서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/useMemo 정리.md",
+                "file": "note/React-fiber에 대해서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/useMemo 정리.md",
+                "file": "note/React-fiber에 대해서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/useMemo 정리.md"
+                "file": "note/React-fiber에 대해서.md"
               }
             }
           }
@@ -311,8 +323,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "46876fad67397659",
+  "active": "1c199466aa0b528b",
   "lastOpenFiles": [
+    "note/useMemo 정리.md",
     "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
@@ -321,7 +334,6 @@
     "books/객체지향의 사실과 오해/객체 지도.md",
     "note/deep copy.md",
     "note/Observer Pattern(옵저버 패턴)?.md",
-    "note/Object VS Map.md",
-    "note/memo.md"
+    "note/Object VS Map.md"
   ]
 }
