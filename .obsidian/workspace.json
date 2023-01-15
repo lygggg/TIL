@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/React-fiber에 대해서.md",
+                "file": "daliy article/React Query Data Transformations.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/React-fiber에 대해서.md",
+                "file": "daliy article/React Query Data Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/React-fiber에 대해서.md",
+                "file": "daliy article/React Query Data Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/React-fiber에 대해서.md"
+                "file": "daliy article/React Query Data Transformations.md"
               }
             }
           }
@@ -325,6 +325,7 @@
   },
   "active": "1c199466aa0b528b",
   "lastOpenFiles": [
+    "note/React-fiber에 대해서.md",
     "note/useMemo 정리.md",
     "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
@@ -333,7 +334,6 @@
     "books/객체지향의 사실과 오해/03 타입과 추상화.md",
     "books/객체지향의 사실과 오해/객체 지도.md",
     "note/deep copy.md",
-    "note/Observer Pattern(옵저버 패턴)?.md",
-    "note/Object VS Map.md"
+    "note/Observer Pattern(옵저버 패턴)?.md"
   ]
 }
