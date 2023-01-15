@@ -182,9 +182,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a37d14a394e3911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/React Query Data Transformations.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/React Query Data Transformations.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/React Query Data Transformations.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md"
               }
             }
           }
@@ -323,17 +335,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1c199466aa0b528b",
+  "active": "8a37d14a394e3911",
   "lastOpenFiles": [
+    "books/오브젝트/10장 - 상속과 코드 재사용.md",
+    "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
+    "daliy article/React Query Data Transformations.md",
     "note/React-fiber에 대해서.md",
     "note/useMemo 정리.md",
     "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "books/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "books/객체지향의 사실과 오해/객체 지도.md",
-    "note/deep copy.md",
-    "note/Observer Pattern(옵저버 패턴)?.md"
+    "books/객체지향의 사실과 오해/03 타입과 추상화.md"
   ]
 }
