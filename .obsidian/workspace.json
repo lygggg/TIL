@@ -194,9 +194,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41784af19ea5a0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
+                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
+                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md"
+                "file": "lecture/실용적인 프런트엔드 테스트 전략.md"
               }
             }
           }
@@ -335,17 +347,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a37d14a394e3911",
+  "active": "41784af19ea5a0a0",
   "lastOpenFiles": [
-    "books/오브젝트/10장 - 상속과 코드 재사용.md",
+    "note/Testing-library Note.md",
+    "lecture/실용적인 프런트엔드 테스트 전략.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
+    "books/쏙쏙 들어오는 함수형 코딩/2. 현실에서의 함수형 사고.md",
+    "books/오브젝트/10장 - 상속과 코드 재사용.md",
     "daliy article/React Query Data Transformations.md",
     "note/React-fiber에 대해서.md",
     "note/useMemo 정리.md",
     "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
-    "books/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
-    "books/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "books/객체지향의 사실과 오해/03 타입과 추상화.md"
+    "books/객체지향의 사실과 오해/05. 책임과 메시지.md"
   ]
 }
