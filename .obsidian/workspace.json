@@ -206,9 +206,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c84bbe1d850f72d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/React 18 변경점.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "file": "note/React 18 변경점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "file": "note/React 18 변경점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/실용적인 프런트엔드 테스트 전략.md"
+                "file": "note/React 18 변경점.md"
               }
             }
           }
@@ -347,10 +359,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "41784af19ea5a0a0",
+  "active": "c84bbe1d850f72d8",
   "lastOpenFiles": [
-    "note/Testing-library Note.md",
     "lecture/실용적인 프런트엔드 테스트 전략.md",
+    "note/Testing-library Note.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
     "books/쏙쏙 들어오는 함수형 코딩/2. 현실에서의 함수형 사고.md",
     "books/오브젝트/10장 - 상속과 코드 재사용.md",
