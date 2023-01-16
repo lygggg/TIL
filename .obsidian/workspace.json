@@ -213,14 +213,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/React 18 변경점.md",
+                "file": "daliy article/React Hooks Compound Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "571ff28c4924a113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/Practical React Query.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -298,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/React 18 변경점.md",
+                "file": "daliy article/Practical React Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/React 18 변경점.md",
+                "file": "daliy article/Practical React Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/React 18 변경점.md"
+                "file": "daliy article/Practical React Query.md"
               }
             }
           }
@@ -359,17 +371,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c84bbe1d850f72d8",
+  "active": "571ff28c4924a113",
   "lastOpenFiles": [
+    "daliy article/React Hooks Compound Components.md",
+    "daliy article/Validator assemble! Functors in Action.md",
+    "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
+    "daliy article/React Query Render Optimizations.md",
+    "daliy article/React Query Data Transformations.md",
+    "daliy article/Practical React Query.md",
+    "note/React 18 변경점.md",
     "lecture/실용적인 프런트엔드 테스트 전략.md",
     "note/Testing-library Note.md",
-    "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
-    "books/쏙쏙 들어오는 함수형 코딩/2. 현실에서의 함수형 사고.md",
-    "books/오브젝트/10장 - 상속과 코드 재사용.md",
-    "daliy article/React Query Data Transformations.md",
-    "note/React-fiber에 대해서.md",
-    "note/useMemo 정리.md",
-    "books/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "books/객체지향의 사실과 오해/05. 책임과 메시지.md"
+    "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md"
   ]
 }

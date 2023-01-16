@@ -87,3 +87,15 @@ queryCache를 수정하는 경우는 낙관적 업데이트 또는 변환 후 �
 - UI에서 실제 데이터를 가져오지만 useQuery 호출과 같은 위치에 배치할 수 있다.
 - 하나의 Query Key를 하나의 파일에 유지할 수 있다.
 - 일부 설정을 변경하거나 데이터 변환을 추가해야 하는 경우 한곳에서 수행할 수 있다.
+
+## 결론
+- React Query는 화면에 데이터를 보여주기위해 서버에서 빌려온 데이터를 캐싱한다.
+- 예상치 못한 re-fetch가 나타나는 경우 refetchOnWindowFocus를 실행하기 때문일 수 있다.
+- refetchOnWindowFocus는 사용자가 다른 브라우저 탭으로 이동한 후 앱으로 돌아오면 백그라운드 re-fetch가 필어나는 것
+- StaleTime는 쿼리가 fresh에서 stale로 전환될 때까지의 유효기간
+- CacheTime은 비활성 쿼리가 캐시에서 제거될 때까지의 기간
+- DevTools를 사용하라! 캐시에 있는 데이터를 알려준다. 디버깅 하기 좋음, 개발 서버는 상당히 빠르기 때문에 백그라운드 re-fetch를 잘 인식하려면 브라우저 개발자 도구의 Network 탭에 들어가 throttle을 걸면 좋다.
+- `keepPreviousData` - 쿼리 키(ex.페이지 번호)가 변경되어서 새로운 데이터를 요청하는 동안에도 마지막 `data`값을 유지한다.
+- 아니면  [initialData](https://react-query.tanstack.com/docs/guides/initial-query-data#initial-data-from-cache)로 미리 채울 수 있다.
+- 모든 백그라운드 데이터는 지역상태에 사용하지 마라
+- 커스텀훅을 사용하면 많은 이점이 있다. 위 참고
