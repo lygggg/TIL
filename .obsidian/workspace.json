@@ -261,7 +261,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/리액트 렌더링.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
                 "mode": "source",
                 "source": false
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/리액트 렌더링.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +363,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/리액트 렌더링.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/리액트 렌더링.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md"
               }
             }
           }
@@ -409,6 +409,7 @@
   },
   "active": "333c2bcb724cb888",
   "lastOpenFiles": [
+    "note/리액트 렌더링.md",
     "note/useCallback.md",
     "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
@@ -417,7 +418,6 @@
     "daliy article/Validator assemble! Functors in Action.md",
     "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
     "daliy article/React Query Render Optimizations.md",
-    "daliy article/React Query Data Transformations.md",
-    "note/React 18 변경점.md"
+    "daliy article/React Query Data Transformations.md"
   ]
 }
