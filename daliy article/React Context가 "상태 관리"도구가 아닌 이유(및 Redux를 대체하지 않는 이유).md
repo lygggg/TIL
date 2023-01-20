@@ -112,3 +112,41 @@ Context가 우리를 위해 하는 모든 일은 prop 드릴링을 건너 뛰는
 - 구성요소가 스토어 업데이트에 가입하고, 스토어 상태의 특정 부분을 추출하며, 해당 값이 변경된 경우에만 다시 렌더링 할 수 있다.
 
 #### 이들의 유일한 겹치는 부분은 props 드릴링을 피하는 것이다.
+
+## Context 그리고 useReducer
+
+useReducer + Context와 Redux + React-Redux의 기능 및 동작에는 많은 차이점이 있다.
+
+- Context + useReducer는 Context를 통해 현재 상태 값을 전달하는 것에 의존한다.
+- React-Redux는 Context를 통해 현재 Redux 스토어 인스턴스를 전달한다.
+- 즉 useReducer, 새 상태 값을 생성할 때 해당 컨텍스트를 구독하는 모든 구성 요소는 데이터의 일부만 신경쓰더라도 강제로 다시 렌더링된다. 이로인해 상태 값의 크기, 해당 데이터를 구독하는 구성 요소의 수 및 재랜더링 빈도에 따라 성능 문제가 발생할 수 있다. 반대로 React-Redux를 사용하면 구성 요소가 스토어 상태의 특정 부분을 구독할 수 있고, 해당 값이 변경될 때만 다시 렌더링 할 수 있다.
+
+또한 몇 가지 다른 중요한 차이점도 있다.
+- Context + useReducer는 React 기능이므로 React 외부에서 사용할 수 없다. 하지만 Redux 스토어는 UI와 독립적이므로 React와 별도로 사용할 수 있습니다.
+- React DevTools를 사용하면 현재 컨텍스트 값을 볼 수 있지만 과거 값이나 시간 경과에 따른 변화는 볼 수 없다. 하지만 Redux DevTools를 사용하면 볼수 있다.
+- useReducer에는 미들웨어가 없다. useEffect와 useReducer를 조합하여 몇 가지 부작용이 있는 일을 할 수 있으며, 미들웨어와 비슷하게 useReducer를 래필하려는 시도는 있었지만 둘다 Redux에 비해 모자라다.
+
+리액트 코어팀 설계자가 한 말
+>My personal summary is that new context is ready to be used for low frequency unlikely updates (like locale/theme). It's also good to use it in the same way as old context was used. I.e. for static values and then propagate updates through subscriptions. It's not ready to be used as a replacement for all Flux-like state propagation.
+
+불필요한 리랜더링을 줄이고 범위 문제를 해결하기 위해 서로 다른 상태 청크에 대해 여러 별도의 컨텍스트를 설정하도록 하는 권장하는 게시물이 많이 있는데, 이 구성 요소에는 React.memo(), useMemo의 혼합이 필요하다.물론 이런식으로 작성할 수는 있지만 그 시점에서 우리는 React-Redux를 그냥 다시 만드는 것 뿐이다.
+
+따라서 Context + useReducer, Redux + React-Redux가 언뜻 보기에는 유사하지만 둘은 완전히 동일하지 않으며 Redux를 진정으로 대체할 수 없다.
+
+## 올바른 도구 선택
+
+사용 사례 요약
+- 컨텍스트
+	- 소품 드릴링 없이 중첩된 구성 요소에 값 전달
+- useReducer
+	- dispatch를 사용하여 다소 복잡한 React 구성요소 상태 관리
+- 컨텍스트 + useReducer
+	- 리듀서 기능을 사용하고 prop 드릴링 없이 해당 상태 값을 중첩된 구성 요소로 전달하는 다소 복잡한 React 구성 요소 상태 관리
+- 리덕스
+	- dispatch를 사용하여 보통에서 매우 복잡한 상태 관리
+	- 시간 경과에 따라 상태 추적 관리
+	- UI레이어와 완전히 분리된 상태 관리 로직
+	- 작업이 발송될 때 Redux 미들웨어 기능 추가 가능
+	- Redux 상태 일부 유지 가능
+	- 개발자가 재생할 수 있는 버그 보고서 활성화
+	- 개발 중 로직 및 UI의 더 빠른 디버깅
