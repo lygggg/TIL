@@ -369,7 +369,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+                "file": "books/객체지향의 사실과 오해/06. 객체 지도.md",
                 "mode": "source",
                 "source": false
               }
@@ -454,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+                "file": "books/객체지향의 사실과 오해/06. 객체 지도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+                "file": "books/객체지향의 사실과 오해/06. 객체 지도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -494,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md"
+                "file": "books/객체지향의 사실과 오해/06. 객체 지도.md"
               }
             }
           }
@@ -517,15 +517,15 @@
   },
   "active": "f7a7954fb32c73f4",
   "lastOpenFiles": [
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
+    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/객체지향의 사실과 오해/06. 객체 지도.md",
+    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
     "daliy article/React Query Data Transformations.md",
     "daliy article/React Query Render Optimizations.md",
     "daliy article/Status Checks in React Query.md",
     "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
-    "daliy article/Testing React Query.md",
-    "note/memo.md"
+    "daliy article/Testing React Query.md"
   ]
 }
