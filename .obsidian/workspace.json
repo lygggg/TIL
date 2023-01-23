@@ -374,9 +374,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0784fc71a70c908e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/React Query and TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -405,7 +417,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "테스트는 왜 작성해야 할까?",
+                "query": "unknown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -434,8 +446,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -455,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md",
+                "file": "daliy article/React Query and TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -472,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md",
+                "file": "daliy article/React Query and TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -495,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md"
+                "file": "daliy article/React Query and TypeScript.md"
               }
             }
           }
@@ -516,17 +527,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7a7954fb32c73f4",
+  "active": "0784fc71a70c908e",
   "lastOpenFiles": [
+    "note/unknown Type.md",
+    "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
+    "daliy article/React Query and TypeScript.md",
+    "daliy article/프론트엔드 테스트에 대한 고촬.md",
     "lecture/실용적인 프런트엔드 테스트 전략.md",
     "note/Testing-library Note.md",
     "books/객체지향의 사실과 오해/객체 지도.md",
     "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/객체지향의 사실과 오해/06. 객체 지도.md",
-    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
-    "daliy article/React Query Data Transformations.md",
-    "daliy article/React Query Render Optimizations.md"
+    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md"
   ]
 }
