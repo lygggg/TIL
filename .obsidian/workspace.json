@@ -381,14 +381,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy article/React Query and TypeScript.md",
+                "file": "lecture/실용적인 프런트엔드 테스트 전략.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0703054bb1bd629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -417,7 +429,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unknown",
+                "query": "테스트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -466,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/React Query and TypeScript.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/React Query and TypeScript.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -506,7 +518,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/React Query and TypeScript.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md"
               }
             }
           }
@@ -527,17 +539,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0784fc71a70c908e",
+  "active": "f0703054bb1bd629",
   "lastOpenFiles": [
-    "note/unknown Type.md",
-    "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
-    "daliy article/React Query and TypeScript.md",
-    "daliy article/프론트엔드 테스트에 대한 고촬.md",
+    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
     "lecture/실용적인 프런트엔드 테스트 전략.md",
+    "daliy article/FE 개발자의 성장 스토리 12 Angular E2E 테스팅 경험기.md",
+    "daliy article/프론트엔드 테스트에 대한 고촬.md",
+    "daliy article/Template Literal Types로 타입 안전하게 코딩하기.md",
     "note/Testing-library Note.md",
-    "books/객체지향의 사실과 오해/객체 지도.md",
-    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
-    "books/객체지향의 사실과 오해/06. 객체 지도.md",
-    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md"
+    "daliy article/React Query and TypeScript.md",
+    "note/unknown Type.md",
+    "books/객체지향의 사실과 오해/객체 지도.md"
   ]
 }
