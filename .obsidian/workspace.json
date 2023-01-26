@@ -417,14 +417,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/react/useContext.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "147c94a9a4da094d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -502,7 +514,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/react/useContext.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -519,7 +531,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/react/useContext.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -542,7 +554,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/react/useContext.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md"
               }
             }
           }
@@ -563,17 +575,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5f91a60a15377381",
+  "active": "147c94a9a4da094d",
   "lastOpenFiles": [
+    "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
+    "note/react/useContext.md",
     "daliy article/다른 사람들이 안 알려주는 리액트에서 Context API 잘 쓰는 방법.md",
     "daliy article/React Context가 \"상태 관리\"도구가 아닌 이유(및 Redux를 대체하지 않는 이유).md",
     "note/react/useMemo 정리.md",
     "note/react/useCallback.md",
-    "note/React 18 변경점.md",
-    "note/react/useReducer.md",
-    "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
-    "lecture/실용적인 프런트엔드 테스트 전략.md",
-    "daliy article/FE 개발자의 성장 스토리 12 Angular E2E 테스팅 경험기.md"
+    "note/React 18 변경점.md"
   ]
 }
