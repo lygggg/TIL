@@ -106,3 +106,75 @@ return <div>real ui</div>
 - createRoot : ReactDom.render 가 없어지고 새롭게 생긴 함수
 - hydrateRoot : ReactDom.hydrate 가 없어지고 새롭게 생긴 함수
 ```
+
+## Strict Mode Behavior
+
+## Hooks
+
+### **useId**
+
+유니크한 Id를 생성해주는 hook이다. 접근성 속성들에도 할당이 가능하다.
+
+근데 해당 id 값을 key Props에 넘겨서는 안된다. key props에 넣는 값은 data로부터 나온 id 값을 넣는 것이 좋다.
+
+사용법 :
+
+```jsx
+import { useId } from 'react';
+
+function PasswordField() {
+  const passwordHintId = useId();
+  return (
+    <>
+      <label>
+        Password:
+        <input
+          type="password"
+          aria-describedby={passwordHintId}
+        />
+      </label>
+      <p id={passwordHintId}>
+        The password should contain at least 18 characters
+      </p>
+    </>
+  );
+}
+```
+
+이는 server rendering에서도 사용할 수 있기 때문에 더욱 유용하다고 할 수 있다.
+
+### **useTransition**
+
+실무에서 사용될 수 있는 예시코드
+
+```jsx
+import { useTransition } from 'react';
+
+function Product({ id, name, price }) {
+    const [startTransition, isPending] = useTransition({ timeoutMs: 1000 });
+    const [cartTotal, setCartTotal] = useState(0);
+
+    const handleAddToCart = async () => {
+        startTransition(async () => {
+            // Make API call to add item to cart
+            await addItemToCart(id);
+            setCartTotal(cartTotal + price);
+        });
+    }
+
+    return (
+        <div>
+            <h2>{name}</h2>
+            <button onClick={handleAddToCart}>
+                {isPending ? 'Adding...' : 'Add to cart'}
+            </button>
+            <p>Cart total: ${cartTotal}</p>
+        </div>
+    );
+}
+```
+
+이 코드에서 startTransition이 interrupt 될 수 있는 예시 상황 :
+
+-   Add to cart 버튼을 여러번 누를 경우, 이전에 진행되고 있던 startTransition내부의 코드는 취소될 것이다.
+-   startTransition 내부가 실행되는 도중 페이지를 이동했을 때
