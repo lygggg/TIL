@@ -66,3 +66,43 @@ function MyComponent() {
 첫번째 인자는 startTransition이고, 두번째 인자는 isPending입니다. startTransition 안에 들어간 업데이트들은 transition의 개념으로 여기게 됩니다.
 
 button이 클릭되면, setSearchQuery이 실행되지만 다른 긴급한 이벤트가 일어나게되면, 해당 업데이트는 취소될 것입니다.
+
+## Suspense
+
+서스펜스는 아직 화면에 보여줄 준비가 안된 lodingState의 컴포넌트를 표시할 것인지에 대해 선언적으로 작성할 수 있게 해줍니다.
+
+```jsx
+<Suspense fallback={<Spinner />}>
+  <Comments />
+</Suspense>
+```
+
+이전에도 서스펜스는 존재하기는 했지만, 제한적인 방법으로 구현되어있었고, 사용되는 케이스는 코드스플리팅을 사용할 때 뿐이었습니다. 하지만 18버전에서는 서버에서 서스펜스 지원을 추가하고, 동시 렌더링 기능을 확장했습니다.
+
+해당 Suspense 컴포넌트는 transition API와 함께 활용하면 좋습니다.
+
+이전에는 어떤 문제가 있었길래 이 Suspense라는 기능을 추가하게 된 것일까요?
+
+-   loading, error를 처리하는 영역에 있어서 명령적인 코드로 처리할 수 밖에 없었다.
+-   하지만 Suspense를 통해 loading의 영역에 대해서 선언적으로 코드를 처리할 수 있게 되었다.
+
+```jsx
+// before 
+if(loading) <div>Loading...</div>
+
+return <div>real ui</div>
+
+// after
+
+<Suspense fallback={<div>Loading...</div>}>
+  <div>real ui</div>
+</Suspense>
+```
+
+```
+
+## Client and Server rendering Api
+
+- createRoot : ReactDom.render 가 없어지고 새롭게 생긴 함수
+- hydrateRoot : ReactDom.hydrate 가 없어지고 새롭게 생긴 함수
+```

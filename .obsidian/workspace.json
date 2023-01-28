@@ -441,7 +441,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy article/Effective React Query Keys.md",
+                "file": "note/React 18 변경점.md",
                 "mode": "source",
                 "source": false
               }
@@ -526,7 +526,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/Effective React Query Keys.md",
+                "file": "note/React 18 변경점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -543,7 +543,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/Effective React Query Keys.md",
+                "file": "note/React 18 변경점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -566,7 +566,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/Effective React Query Keys.md"
+                "file": "note/React 18 변경점.md"
               }
             }
           }
@@ -587,17 +587,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5e6e952814546bbe",
+  "active": "fa80d25261819770",
   "lastOpenFiles": [
-    "daliy article/Testing React Query.md",
-    "daliy article/Effective React Query Keys.md",
-    "daliy article/Colocation.md",
-    "daliy article/React Query and TypeScript.md",
-    "daliy article/React Query Data Transformations.md",
-    "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/6. 변경 가능한 데이터 구조를 가진 언어에서 불변성 유지하기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
-    "note/react/useContext.md"
+    "note/접근성 정리.md",
+    "note/Playwright.md",
+    "note/Observer Pattern(옵저버 패턴)?.md",
+    "note/Object VS Map.md",
+    "note/memo.md",
+    "note/e2e 테스트란.md",
+    "note/deep copy.md",
+    "note/React-Query Note.md",
+    "note/React-fiber에 대해서.md",
+    "note/React 18 변경점.md"
   ]
 }
