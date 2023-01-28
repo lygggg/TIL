@@ -446,9 +446,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f96e8264b8fa871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -526,7 +538,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/React 18 변경점.md",
+                "file": "note/JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -543,7 +555,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/React 18 변경점.md",
+                "file": "note/JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -566,7 +578,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/React 18 변경점.md"
+                "file": "note/JSX.md"
               }
             }
           }
@@ -587,8 +599,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa80d25261819770",
+  "active": "5f96e8264b8fa871",
   "lastOpenFiles": [
+    "note/React 18 변경점.md",
     "note/접근성 정리.md",
     "note/Playwright.md",
     "note/Observer Pattern(옵저버 패턴)?.md",
@@ -597,7 +610,6 @@
     "note/e2e 테스트란.md",
     "note/deep copy.md",
     "note/React-Query Note.md",
-    "note/React-fiber에 대해서.md",
-    "note/React 18 변경점.md"
+    "note/React-fiber에 대해서.md"
   ]
 }
