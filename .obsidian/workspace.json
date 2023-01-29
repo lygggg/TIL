@@ -458,9 +458,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3539c5e88b43d590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 37
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -538,7 +550,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/JSX.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -555,7 +567,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/JSX.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -578,7 +590,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/JSX.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md"
               }
             }
           }
@@ -599,17 +611,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5f96e8264b8fa871",
+  "active": "3539c5e88b43d590",
   "lastOpenFiles": [
+    "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+    "note/JSX.md",
     "note/React 18 변경점.md",
     "note/접근성 정리.md",
     "note/Playwright.md",
     "note/Observer Pattern(옵저버 패턴)?.md",
     "note/Object VS Map.md",
     "note/memo.md",
-    "note/e2e 테스트란.md",
-    "note/deep copy.md",
-    "note/React-Query Note.md",
-    "note/React-fiber에 대해서.md"
+    "note/e2e 테스트란.md"
   ]
 }
