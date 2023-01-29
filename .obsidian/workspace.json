@@ -470,9 +470,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14fafce7a24a3e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/적정기술 딜레마.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -550,7 +562,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+                "file": "daliy article/적정기술 딜레마.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -567,7 +579,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+                "file": "daliy article/적정기술 딜레마.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -590,7 +602,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md"
+                "file": "daliy article/적정기술 딜레마.md"
               }
             }
           }
@@ -611,10 +623,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3539c5e88b43d590",
+  "active": "14fafce7a24a3e5b",
   "lastOpenFiles": [
-    "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
     "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+    "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
     "note/JSX.md",
     "note/React 18 변경점.md",
     "note/접근성 정리.md",
