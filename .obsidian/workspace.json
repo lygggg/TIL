@@ -494,9 +494,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb90f14723c3c19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/react/React Suspense.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -574,7 +586,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
+                "file": "note/react/React Suspense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -591,7 +603,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
+                "file": "note/react/React Suspense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -614,7 +626,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md"
+                "file": "note/react/React Suspense.md"
               }
             }
           }
@@ -635,17 +647,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9214e382639514d5",
+  "active": "eb90f14723c3c19e",
   "lastOpenFiles": [
+    "lecture/SLASH/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
+    "note/react/React Suspense.md",
+    "lecture/SLASH/JavaScript Bundle Diet.md",
+    "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
     "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
     "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
     "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
     "daliy article/How to use React Context effectively.md",
-    "daliy article/적정기술 딜레마.md",
-    "books/쏙쏙 들어오는 함수형 코딩/7. 신뢰할 수 없는 코드를 쓰면서 불변성 지키기.md",
-    "note/JSX.md",
-    "note/React 18 변경점.md"
+    "daliy article/적정기술 딜레마.md"
   ]
 }
