@@ -513,7 +513,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
+                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md",
                 "mode": "source",
                 "source": false
               }
@@ -598,7 +598,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
+                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -615,7 +615,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
+                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -638,7 +638,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md"
+                "file": "daliy article/프론트엔드 테스트에 대한 고촬.md"
               }
             }
           }
@@ -661,15 +661,15 @@
   },
   "active": "fa42276355105e9c",
   "lastOpenFiles": [
+    "note/React-Query Note.md",
+    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
     "note/react/React Suspense.md",
     "note/react/useCallback.md",
-    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
     "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
     "books/무제 파일.md",
     "lecture/SLASH/SLASH - 프론트엔드 웹 서비스에서 우아하게 비동기 처리하기.md",
     "lecture/SLASH/JavaScript Bundle Diet.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md"
+    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md"
   ]
 }
