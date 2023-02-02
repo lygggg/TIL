@@ -513,7 +513,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy article/8월~9월 읽었던 아티클 정리.md",
+                "file": "note/접근성 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -549,7 +549,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "접근성",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -578,8 +578,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -599,7 +598,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/8월~9월 읽었던 아티클 정리.md",
+                "file": "note/접근성 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -616,7 +615,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/8월~9월 읽었던 아티클 정리.md",
+                "file": "note/접근성 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -639,7 +638,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/8월~9월 읽었던 아티클 정리.md"
+                "file": "note/접근성 정리.md"
               }
             }
           }
@@ -662,15 +661,15 @@
   },
   "active": "fa42276355105e9c",
   "lastOpenFiles": [
+    "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
+    "lecture/웹 접근성/06. Document.md",
+    "daliy article/8월~9월 읽었던 아티클 정리.md",
     "note/시맨틱 HTML.md",
     "note/접근성 정리.md",
     "note/React 18 변경점.md",
     "daliy article/프론트엔드 테스트에 대한 고촬.md",
-    "daliy article/6 Cypress Best Practices for Making Your Tests More Deterministic.md",
-    "daliy article/8월~9월 읽었던 아티클 정리.md",
-    "daliy article/9 React Testing Library Tips and Tricks.md",
-    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
-    "lecture/웹 접근성/03. ARIA-and-HTML.md",
-    "lecture/웹 접근성/01. What-is-digital-accessiblity.md"
+    "daliy article/6 Cypress Best Practices for Making Your Tests More Deterministic.md"
   ]
 }
