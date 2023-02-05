@@ -513,7 +513,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -598,7 +598,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -615,7 +615,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -638,7 +638,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/접근성 정리.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md"
               }
             }
           }
@@ -661,13 +661,13 @@
   },
   "active": "fa42276355105e9c",
   "lastOpenFiles": [
+    "note/접근성 정리.md",
     "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
     "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
     "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
     "lecture/웹 접근성/06. Document.md",
     "daliy article/8월~9월 읽었던 아티클 정리.md",
     "note/시맨틱 HTML.md",
-    "note/접근성 정리.md",
     "note/React 18 변경점.md",
     "daliy article/프론트엔드 테스트에 대한 고촬.md",
     "daliy article/6 Cypress Best Practices for Making Your Tests More Deterministic.md"
