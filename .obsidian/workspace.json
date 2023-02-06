@@ -513,14 +513,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e79021b7cd6dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "524aecdbbafbc14c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -598,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -615,7 +639,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/접근성 정리.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -638,7 +662,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/접근성 정리.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md"
               }
             }
           }
@@ -659,17 +683,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa42276355105e9c",
+  "active": "524aecdbbafbc14c",
   "lastOpenFiles": [
-    "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+    "note/유연한 컴포넌트 설계.md",
+    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md",
+    "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
     "note/접근성 정리.md",
+    "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
     "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수1.md",
     "lecture/웹 접근성/06. Document.md",
     "daliy article/8월~9월 읽었던 아티클 정리.md",
     "note/시맨틱 HTML.md",
-    "note/React 18 변경점.md",
-    "daliy article/프론트엔드 테스트에 대한 고촬.md",
-    "daliy article/6 Cypress Best Practices for Making Your Tests More Deterministic.md"
+    "note/React 18 변경점.md"
   ]
 }
