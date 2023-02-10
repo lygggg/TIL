@@ -554,9 +554,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "634746164cbc8dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/12. 함수형 도구 체이닝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -634,7 +646,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/계층형 설계.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/12. 함수형 도구 체이닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -651,7 +663,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/계층형 설계.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/12. 함수형 도구 체이닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -674,7 +686,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/계층형 설계.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/12. 함수형 도구 체이닝.md"
               }
             }
           }
@@ -695,17 +707,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "33e9e68b76837952",
+  "active": "634746164cbc8dba",
   "lastOpenFiles": [
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
     "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
+    "books/쏙쏙 들어오는 함수형 코딩/12. 함수형 도구 체이닝.md",
+    "note/계층형 설계.md",
+    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
     "note/유연한 컴포넌트 설계.md",
     "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md",
     "note/접근성 정리.md",
     "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
     "books/쏙쏙 들어오는 함수형 코딩/5. 더 좋은 액션 만들기.md",
-    "lecture/웹 접근성/06. Document.md",
-    "daliy article/8월~9월 읽었던 아티클 정리.md",
-    "note/시맨틱 HTML.md"
+    "lecture/웹 접근성/06. Document.md"
   ]
 }
