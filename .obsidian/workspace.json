@@ -585,7 +585,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/observer pattern.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
                 "mode": "source",
                 "source": false
               }
@@ -670,7 +670,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/observer pattern.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -687,7 +687,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/observer pattern.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -710,7 +710,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/observer pattern.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md"
               }
             }
           }
@@ -733,15 +733,15 @@
   },
   "active": "e2769858c8904e80",
   "lastOpenFiles": [
+    "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
+    "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
+    "note/observer pattern.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
     "note/react/server component.md",
     "note/react/React Suspense.md",
     "note/접근성 정리.md",
-    "books/쏙쏙 들어오는 함수형 코딩/12. 함수형 도구 체이닝.md",
-    "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
     "note/계층형 설계.md",
     "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
-    "note/유연한 컴포넌트 설계.md",
-    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md"
+    "note/유연한 컴포넌트 설계.md"
   ]
 }
