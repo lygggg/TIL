@@ -590,9 +590,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9009b3c04b275843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaad1f60f6ac9ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/이벤트 소싱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -670,7 +694,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
+                "file": "note/이벤트 소싱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -687,7 +711,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
+                "file": "note/이벤트 소싱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -710,7 +734,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md"
+                "file": "note/이벤트 소싱.md"
               }
             }
           }
@@ -731,17 +755,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e2769858c8904e80",
+  "active": "aaad1f60f6ac9ea7",
   "lastOpenFiles": [
-    "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
+    "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
     "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
+    "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
     "note/observer pattern.md",
     "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
     "note/react/server component.md",
     "note/react/React Suspense.md",
     "note/접근성 정리.md",
     "note/계층형 설계.md",
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
-    "note/유연한 컴포넌트 설계.md"
+    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md"
   ]
 }
