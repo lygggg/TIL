@@ -609,7 +609,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/이벤트 소싱.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -694,7 +694,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/이벤트 소싱.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -711,7 +711,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/이벤트 소싱.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -734,7 +734,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/이벤트 소싱.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md"
               }
             }
           }
@@ -757,6 +757,7 @@
   },
   "active": "aaad1f60f6ac9ea7",
   "lastOpenFiles": [
+    "note/이벤트 소싱.md",
     "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
     "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
     "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
@@ -765,7 +766,6 @@
     "note/react/server component.md",
     "note/react/React Suspense.md",
     "note/접근성 정리.md",
-    "note/계층형 설계.md",
-    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md"
+    "note/계층형 설계.md"
   ]
 }
