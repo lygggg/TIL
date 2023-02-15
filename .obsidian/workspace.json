@@ -621,14 +621,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/react/React Suspense.md",
+                "file": "note/React 18 변경점.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ec06286f99fc6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/react/동시성.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -690,8 +702,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb2414e1d9f41bf8",
@@ -707,7 +718,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/react/React Suspense.md",
+                "file": "note/react/동시성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -724,7 +735,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/react/React Suspense.md",
+                "file": "note/react/동시성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -747,7 +758,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/react/React Suspense.md"
+                "file": "note/react/동시성.md"
               }
             }
           }
@@ -768,13 +779,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "649a399d8e606ba5",
+  "active": "4ec06286f99fc6b5",
   "lastOpenFiles": [
-    "note/react/server component.md",
+    "note/React 18 변경점.md",
     "note/react/React Suspense.md",
+    "note/react/server component.md",
     "note/unknown Type.md",
     "note/Testing-library Note.md",
-    "note/React 18 변경점.md",
     "note/React-fiber에 대해서.md",
     "note/대수적 효과.md",
     "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
