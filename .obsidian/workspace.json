@@ -621,8 +621,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/대수적 효과.md",
-                "mode": "source",
+                "file": "note/react/React Suspense.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -690,7 +690,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb2414e1d9f41bf8",
@@ -706,7 +707,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/대수적 효과.md",
+                "file": "note/react/React Suspense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -723,7 +724,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/대수적 효과.md",
+                "file": "note/react/React Suspense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -746,7 +747,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/대수적 효과.md"
+                "file": "note/react/React Suspense.md"
               }
             }
           }
@@ -769,15 +770,15 @@
   },
   "active": "649a399d8e606ba5",
   "lastOpenFiles": [
+    "note/react/server component.md",
     "note/react/React Suspense.md",
+    "note/unknown Type.md",
+    "note/Testing-library Note.md",
+    "note/React 18 변경점.md",
+    "note/React-fiber에 대해서.md",
     "note/대수적 효과.md",
     "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
     "note/이벤트 소싱.md",
-    "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
-    "books/쏙쏙 들어오는 함수형 코딩/11. 일급 함수 II.md",
-    "note/observer pattern.md",
-    "books/쏙쏙 들어오는 함수형 코딩/1. 쏙쏙 들어오는 함수형 코딩에 오신 것을 환영합니다..md",
-    "note/react/server component.md",
-    "note/접근성 정리.md"
+    "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md"
   ]
 }
