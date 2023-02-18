@@ -681,14 +681,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy-ps/무제 파일.md",
+                "file": "daliy-ps/뒤에 있는 큰 수 찾기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66fb237936ab7b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy-ps/기능 개발.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9271cc2f0423ec3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy-ps/올바른 괄호.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 56
+        "currentTab": 58
       }
     ],
     "direction": "vertical"
@@ -766,7 +790,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/무제 파일.md",
+                "file": "daliy-ps/올바른 괄호.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -783,7 +807,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/무제 파일.md",
+                "file": "daliy-ps/올바른 괄호.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -806,7 +830,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/무제 파일.md"
+                "file": "daliy-ps/올바른 괄호.md"
               }
             }
           }
@@ -827,17 +851,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c1528e33efadcc3b",
+  "active": "9271cc2f0423ec3d",
   "lastOpenFiles": [
+    "daliy-ps/뒤에 있는 큰 수 찾기.md",
+    "daliy-ps/올바른 괄호.md",
+    "daliy-ps/기능 개발.md",
     "note/이벤트 소싱.md",
     "note/뛰어난 개발자란?.md",
     "note/모나드란? ing.md",
     "books/쏙쏙 들어오는 함수형 코딩/15. 타임라인 격리하기.md",
     "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
     "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
-    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md",
-    "note/유연한 컴포넌트 설계.md",
-    "note/deep copy.md",
-    "note/제어역전(Inversion of Control, IOC).md"
+    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md"
   ]
 }
