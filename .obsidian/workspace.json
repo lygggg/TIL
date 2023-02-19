@@ -705,14 +705,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy-ps/올바른 괄호.md",
+                "file": "daliy-ps/뒤에 있는 큰 수 찾기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a456bbf2d509123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 58
+        "currentTab": 59
       }
     ],
     "direction": "vertical"
@@ -790,7 +802,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/올바른 괄호.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -807,7 +819,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/올바른 괄호.md",
+                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -830,7 +842,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/올바른 괄호.md"
+                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md"
               }
             }
           }
@@ -851,17 +863,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9271cc2f0423ec3d",
+  "active": "8a456bbf2d509123",
   "lastOpenFiles": [
+    "books/쏙쏙 들어오는 함수형 코딩/15. 타임라인 격리하기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
     "daliy-ps/뒤에 있는 큰 수 찾기.md",
     "daliy-ps/올바른 괄호.md",
     "daliy-ps/기능 개발.md",
     "note/이벤트 소싱.md",
     "note/뛰어난 개발자란?.md",
     "note/모나드란? ing.md",
-    "books/쏙쏙 들어오는 함수형 코딩/15. 타임라인 격리하기.md",
     "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md",
-    "books/함수형 자바스크립트/8. 비동기 이벤트와 데이터를 관리.md"
+    "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md"
   ]
 }
