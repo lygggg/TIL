@@ -717,7 +717,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
+                "file": "note/유연한 컴포넌트 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -753,7 +753,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "트레이드",
+                "query": "여지를",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -802,7 +802,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
+                "file": "note/유연한 컴포넌트 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -819,7 +819,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
+                "file": "note/유연한 컴포넌트 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -842,7 +842,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md"
+                "file": "note/유연한 컴포넌트 설계.md"
               }
             }
           }
@@ -865,15 +865,15 @@
   },
   "active": "8a456bbf2d509123",
   "lastOpenFiles": [
-    "books/쏙쏙 들어오는 함수형 코딩/15. 타임라인 격리하기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/17. 타임라인 조율하기.md",
-    "daliy-ps/뒤에 있는 큰 수 찾기.md",
-    "daliy-ps/올바른 괄호.md",
-    "daliy-ps/기능 개발.md",
-    "note/이벤트 소싱.md",
-    "note/뛰어난 개발자란?.md",
-    "note/모나드란? ing.md",
-    "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
-    "books/쏙쏙 들어오는 함수형 코딩/13. 함수형 도구 체이닝.md"
+    "books/객체지향의 사실과 오해/06. 객체 지도.md",
+    "note/개방폐쇄의 원칙이란?.md",
+    "daliy article/Effective React Query Keys.md",
+    "daliy article/프론트엔드 테스트에 대한 고촬.md",
+    "note/유연한 컴포넌트 설계.md",
+    "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+    "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
+    "books/오브젝트/12장 - 다형성.md",
+    "books/오브젝트/11장 - 합성과 유연한 설계.md",
+    "books/객체지향의 사실과 오해/05. 책임과 메시지.md"
   ]
 }
