@@ -717,14 +717,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/유연한 컴포넌트 설계.md",
+                "file": "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a155ebb8c99064b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/모듈 시스템의 역사, 그리고 ESM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 59
+        "currentTab": 60
       }
     ],
     "direction": "vertical"
@@ -753,7 +765,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "여지를",
+                "query": "인터페이스와",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -802,7 +814,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/유연한 컴포넌트 설계.md",
+                "file": "daliy article/모듈 시스템의 역사, 그리고 ESM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -819,7 +831,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/유연한 컴포넌트 설계.md",
+                "file": "daliy article/모듈 시스템의 역사, 그리고 ESM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -842,7 +854,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/유연한 컴포넌트 설계.md"
+                "file": "daliy article/모듈 시스템의 역사, 그리고 ESM.md"
               }
             }
           }
@@ -863,17 +875,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a456bbf2d509123",
+  "active": "a155ebb8c99064b0",
   "lastOpenFiles": [
-    "books/객체지향의 사실과 오해/06. 객체 지도.md",
-    "note/개방폐쇄의 원칙이란?.md",
-    "daliy article/Effective React Query Keys.md",
-    "daliy article/프론트엔드 테스트에 대한 고촬.md",
-    "note/유연한 컴포넌트 설계.md",
-    "books/오브젝트/15장 - 디자인 패턴과 프레임워크.md",
+    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
+    "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
+    "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
+    "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
+    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
     "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
-    "books/오브젝트/12장 - 다형성.md",
-    "books/오브젝트/11장 - 합성과 유연한 설계.md",
-    "books/객체지향의 사실과 오해/05. 책임과 메시지.md"
+    "books/오브젝트/14장 - 일관성 있는 협력.md",
+    "note/인터페이스 분리 원칙이란?.md",
+    "note/접근성 정리.md",
+    "note/추상화란.md"
   ]
 }
