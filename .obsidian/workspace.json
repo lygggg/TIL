@@ -746,9 +746,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52417d3aa0250943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy-ps/다리를 지나는 트럭.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 61
+        "currentTab": 62
       }
     ],
     "direction": "vertical"
@@ -826,7 +838,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/프린터.md",
+                "file": "daliy-ps/다리를 지나는 트럭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -843,7 +855,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/프린터.md",
+                "file": "daliy-ps/다리를 지나는 트럭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -866,7 +878,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/프린터.md"
+                "file": "daliy-ps/다리를 지나는 트럭.md"
               }
             }
           }
@@ -887,8 +899,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a2b4e8b52ec5b383",
+  "active": "52417d3aa0250943",
   "lastOpenFiles": [
+    "daliy-ps/프린터.md",
     "daliy article/모듈 시스템의 역사, 그리고 ESM.md",
     "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
     "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
@@ -897,7 +910,6 @@
     "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
     "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
     "books/오브젝트/14장 - 일관성 있는 협력.md",
-    "note/인터페이스 분리 원칙이란?.md",
-    "note/접근성 정리.md"
+    "note/인터페이스 분리 원칙이란?.md"
   ]
 }
