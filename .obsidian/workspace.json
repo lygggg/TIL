@@ -753,7 +753,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy-ps/다리를 지나는 트럭.md",
+                "file": "note/유연한 컴포넌트 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -789,7 +789,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인터페이스와",
+                "query": "유연한",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -818,7 +818,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -838,7 +839,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/다리를 지나는 트럭.md",
+                "file": "note/유연한 컴포넌트 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -855,7 +856,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/다리를 지나는 트럭.md",
+                "file": "note/유연한 컴포넌트 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -878,7 +879,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/다리를 지나는 트럭.md"
+                "file": "note/유연한 컴포넌트 설계.md"
               }
             }
           }
@@ -901,15 +902,15 @@
   },
   "active": "52417d3aa0250943",
   "lastOpenFiles": [
+    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
+    "note/유연한 컴포넌트 설계.md",
+    "daliy article/React Context가 \"상태 관리\"도구가 아닌 이유(및 Redux를 대체하지 않는 이유).md",
+    "note/react/useContext.md",
+    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md",
+    "daliy-ps/다리를 지나는 트럭.md",
     "daliy-ps/프린터.md",
     "daliy article/모듈 시스템의 역사, 그리고 ESM.md",
     "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
-    "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md",
-    "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
-    "books/쏙쏙 들어오는 함수형 코딩/8. 계층형 설계.md",
-    "lecture/웹 접근성/02. How-is-digital-accessibility-measured?.md",
-    "books/오브젝트/13장 - 서브클래싱과 서브타이핑.md",
-    "books/오브젝트/14장 - 일관성 있는 협력.md",
-    "note/인터페이스 분리 원칙이란?.md"
+    "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md"
   ]
 }
