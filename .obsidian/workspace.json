@@ -777,7 +777,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy-ps/빙산.md",
+                "file": "note/react/server component.md",
                 "mode": "source",
                 "source": false
               }
@@ -813,7 +813,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유연한",
+                "query": "QueryClient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -862,7 +862,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/빙산.md",
+                "file": "note/react/server component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -879,7 +879,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/빙산.md",
+                "file": "note/react/server component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -902,7 +902,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/빙산.md"
+                "file": "note/react/server component.md"
               }
             }
           }
@@ -925,21 +925,31 @@
   },
   "active": "649bf286c13fc4d5",
   "lastOpenFiles": [
-    "daliy-ps/다리를 지나는 트럭.md",
-    "daliy-ps/빙산.md",
-    "daliy-ps/뒤에 있는 큰 수 찾기.md",
-    "books/코어 자바스크립트/2장 실행 컨텍스트.md",
-    "books/코어 자바스크립트/1장 데이터 타입.md",
-    "books/함수형 자바스크립트/5.복잡성을 줄이는 디자인 패턴.md",
-    "daliy-ps/기능 개발.md",
-    "lecture/객체지향 자바스크립트/객체지향 자바스크립트 - 1회차.md",
-    "note/유연한 컴포넌트 설계.md",
-    "daliy article/React Context가 \"상태 관리\"도구가 아닌 이유(및 Redux를 대체하지 않는 이유).md",
+    "note/react/useCallback.md",
     "note/react/useContext.md",
-    "books/쏙쏙 들어오는 함수형 코딩/10. 일급 함수 I.md",
-    "daliy-ps/프린터.md",
-    "daliy article/모듈 시스템의 역사, 그리고 ESM.md",
-    "books/객체지향의 사실과 오해/05. 책임과 메시지.md",
-    "books/쏙쏙 들어오는 함수형 코딩/9. 계층형 설계2.md"
+    "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
+    "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
+    "note/대수적 효과.md",
+    "note/react/React Suspense.md",
+    "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
+    "note/Playwright.md",
+    "note/Observer Pattern(옵저버 패턴)?.md",
+    "note/observer pattern.md",
+    "note/Object VS Map.md",
+    "note/memo.md",
+    "note/JSX.md",
+    "note/e2e 테스트란.md",
+    "note/deep copy.md",
+    "note/함수자란?.md",
+    "note/추상화란.md",
+    "note/제어역전(Inversion of Control, IOC).md",
+    "note/접근성 정리.md",
+    "note/인터페이스란 무엇인가.md",
+    "note/인터페이스 분리 원칙이란?.md",
+    "note/리스코프 치환 원칙이란 무엇인가?.md",
+    "note/뛰어난 개발자란?.md",
+    "note/개방폐쇄의 원칙이란?.md",
+    "note/계층형 설계.md",
+    "note/react/useReducer.md"
   ]
 }
