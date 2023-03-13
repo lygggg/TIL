@@ -794,9 +794,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "627dc9c370fb95c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy-ps/덧칠하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 65
+        "currentTab": 66
       }
     ],
     "direction": "vertical"
@@ -874,7 +886,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/대수적 효과.md",
+                "file": "daliy-ps/덧칠하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -891,7 +903,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/대수적 효과.md",
+                "file": "daliy-ps/덧칠하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -914,7 +926,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/대수적 효과.md"
+                "file": "daliy-ps/덧칠하기.md"
               }
             }
           }
@@ -935,14 +947,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4a1fcaece9efe57f",
+  "active": "627dc9c370fb95c8",
   "lastOpenFiles": [
+    "note/대수적 효과.md",
+    "daliy-ps/덧칠하기.md",
     "note/react/server component.md",
     "note/react/useCallback.md",
     "note/react/useContext.md",
     "books/쏙쏙 들어오는 함수형 코딩/4. 액션에서 계산 빼내기.md",
     "books/쏙쏙 들어오는 함수형 코딩/3. 액션과 계산, 데이터의 차이를 알기.md",
-    "note/대수적 효과.md",
     "note/react/React Suspense.md",
     "books/쏙쏙 들어오는 함수형 코딩/14. 중첩된 데이터에 함수형 도구 사용하기.md",
     "note/Playwright.md",
@@ -961,7 +974,6 @@
     "note/인터페이스 분리 원칙이란?.md",
     "note/리스코프 치환 원칙이란 무엇인가?.md",
     "note/뛰어난 개발자란?.md",
-    "note/개방폐쇄의 원칙이란?.md",
-    "note/계층형 설계.md"
+    "note/개방폐쇄의 원칙이란?.md"
   ]
 }
