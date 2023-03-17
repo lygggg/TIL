@@ -818,9 +818,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e5ef625e8a20ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy-ps/스킬트리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 67
+        "currentTab": 68
       }
     ],
     "direction": "vertical"
@@ -898,7 +910,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/귤고르기.md",
+                "file": "daliy-ps/스킬트리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -915,7 +927,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/귤고르기.md",
+                "file": "daliy-ps/스킬트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -938,7 +950,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/귤고르기.md"
+                "file": "daliy-ps/스킬트리.md"
               }
             }
           }
@@ -959,10 +971,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f5fb0244b61e27df",
+  "active": "4e5ef625e8a20ffc",
   "lastOpenFiles": [
-    "daliy-ps/덧칠하기.md",
     "daliy-ps/귤고르기.md",
+    "daliy-ps/스킬트리.md",
+    "daliy-ps/덧칠하기.md",
     "note/대수적 효과.md",
     "note/react/server component.md",
     "note/react/useCallback.md",
@@ -985,7 +998,6 @@
     "note/접근성 정리.md",
     "note/인터페이스란 무엇인가.md",
     "note/인터페이스 분리 원칙이란?.md",
-    "note/리스코프 치환 원칙이란 무엇인가?.md",
-    "note/뛰어난 개발자란?.md"
+    "note/리스코프 치환 원칙이란 무엇인가?.md"
   ]
 }
