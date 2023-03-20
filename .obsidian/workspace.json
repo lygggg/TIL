@@ -842,9 +842,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c1a4cd5523cf3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy-ps/셔틀버스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 69
+        "currentTab": 70
       }
     ],
     "direction": "vertical"
@@ -922,7 +934,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/숫자변환하기.md",
+                "file": "daliy-ps/셔틀버스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -939,7 +951,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/숫자변환하기.md",
+                "file": "daliy-ps/셔틀버스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -962,7 +974,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/숫자변환하기.md"
+                "file": "daliy-ps/셔틀버스.md"
               }
             }
           }
@@ -983,10 +995,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fac5c9763ed36814",
+  "active": "9c1a4cd5523cf3e5",
   "lastOpenFiles": [
-    "daliy-ps/스킬트리.md",
     "daliy-ps/숫자변환하기.md",
+    "daliy-ps/셔틀버스.md",
+    "daliy-ps/스킬트리.md",
     "daliy-ps/귤고르기.md",
     "daliy-ps/덧칠하기.md",
     "note/대수적 효과.md",
@@ -1009,7 +1022,6 @@
     "note/추상화란.md",
     "note/제어역전(Inversion of Control, IOC).md",
     "note/접근성 정리.md",
-    "note/인터페이스란 무엇인가.md",
-    "note/인터페이스 분리 원칙이란?.md"
+    "note/인터페이스란 무엇인가.md"
   ]
 }
