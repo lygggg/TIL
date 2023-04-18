@@ -1009,11 +1009,12 @@
   },
   "active": "1ab53004ee1be3a4",
   "lastOpenFiles": [
-    "daliy-ps/셔틀버스.md",
+    "daliy-ps/귤고르기.md",
     "daliy-ps/롤케이즈 자르기.md",
+    "note/무제 파일.md",
+    "daliy-ps/셔틀버스.md",
     "daliy-ps/숫자변환하기.md",
     "daliy-ps/스킬트리.md",
-    "daliy-ps/귤고르기.md",
     "daliy-ps/덧칠하기.md",
     "note/대수적 효과.md",
     "note/react/server component.md",
@@ -1033,7 +1034,6 @@
     "note/deep copy.md",
     "note/함수자란?.md",
     "note/추상화란.md",
-    "note/제어역전(Inversion of Control, IOC).md",
-    "note/접근성 정리.md"
+    "note/제어역전(Inversion of Control, IOC).md"
   ]
 }
