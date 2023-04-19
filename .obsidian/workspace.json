@@ -873,7 +873,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
+                "file": "daliy-ps/귤고르기.md",
                 "mode": "source",
                 "source": false
               }
@@ -958,7 +958,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
+                "file": "daliy-ps/귤고르기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -975,7 +975,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
+                "file": "daliy-ps/귤고르기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -998,7 +998,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md"
+                "file": "daliy-ps/귤고르기.md"
               }
             }
           }
@@ -1021,8 +1021,8 @@
   },
   "active": "f7318724d443c142",
   "lastOpenFiles": [
-    "daliy-ps/롤케이즈 자르기.md",
     "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
+    "daliy-ps/롤케이즈 자르기.md",
     "daliy article/무제 폴더",
     "books/무제 파일.md",
     "daliy-ps/귤고르기.md",
