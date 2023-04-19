@@ -866,9 +866,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7318724d443c142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 71
+        "currentTab": 72
       }
     ],
     "direction": "vertical"
@@ -946,7 +958,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/롤케이즈 자르기.md",
+                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -963,7 +975,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/롤케이즈 자르기.md",
+                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -986,7 +998,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/롤케이즈 자르기.md"
+                "file": "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md"
               }
             }
           }
@@ -1007,10 +1019,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1ab53004ee1be3a4",
+  "active": "f7318724d443c142",
   "lastOpenFiles": [
-    "daliy-ps/귤고르기.md",
     "daliy-ps/롤케이즈 자르기.md",
+    "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
+    "daliy article/무제 폴더",
+    "books/무제 파일.md",
+    "daliy-ps/귤고르기.md",
     "note/무제 파일.md",
     "daliy-ps/셔틀버스.md",
     "daliy-ps/숫자변환하기.md",
@@ -1032,8 +1047,6 @@
     "note/JSX.md",
     "note/e2e 테스트란.md",
     "note/deep copy.md",
-    "note/함수자란?.md",
-    "note/추상화란.md",
-    "note/제어역전(Inversion of Control, IOC).md"
+    "note/함수자란?.md"
   ]
 }
