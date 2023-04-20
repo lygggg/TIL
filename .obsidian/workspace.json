@@ -878,9 +878,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef2dad1690a565c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Clean Architecture/1장 설계와 아키텍처란?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a27ee6fefc77a33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Clean Architecture/2장 두 가지 가치에 대한 이야기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a03440708ff37814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Clean Architecture/3장 패러다임 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 72
+        "currentTab": 75
       }
     ],
     "direction": "vertical"
@@ -958,7 +994,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy-ps/귤고르기.md",
+                "file": "books/Clean Architecture/3장 패러다임 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -975,7 +1011,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy-ps/귤고르기.md",
+                "file": "books/Clean Architecture/3장 패러다임 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -998,7 +1034,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy-ps/귤고르기.md"
+                "file": "books/Clean Architecture/3장 패러다임 개요.md"
               }
             }
           }
@@ -1019,13 +1055,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7318724d443c142",
+  "active": "a03440708ff37814",
   "lastOpenFiles": [
+    "books/Clean Architecture/2장 두 가지 가치에 대한 이야기.md",
+    "books/Clean Architecture/3장 패러다임 개요.md",
+    "books/Clean Architecture/1장 설계와 아키텍처란?.md",
+    "daliy-ps/귤고르기.md",
+    "books/Clean Architecture",
     "daliy article/http3까지 버전별 변천사와 동작원리- HTTP 0.9~1.0.md",
     "daliy-ps/롤케이즈 자르기.md",
     "daliy article/무제 폴더",
     "books/무제 파일.md",
-    "daliy-ps/귤고르기.md",
     "note/무제 파일.md",
     "daliy-ps/셔틀버스.md",
     "daliy-ps/숫자변환하기.md",
@@ -1044,9 +1084,6 @@
     "note/observer pattern.md",
     "note/Object VS Map.md",
     "note/memo.md",
-    "note/JSX.md",
-    "note/e2e 테스트란.md",
-    "note/deep copy.md",
-    "note/함수자란?.md"
+    "note/JSX.md"
   ]
 }
